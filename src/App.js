@@ -28,7 +28,7 @@ function App() {
           <Route path='/Technology'element={<Technologypage/>}/>
           <Route path='/Food'element={<Foodpage/>}/>
           <Route path='/article/:articleTitle/:articleCategory' element={<ContentPage/>}></Route>
-        <Route path='*' element={<PageNotFound/>}></Route>
+         <Route path='*' element={<PageNotFound/>}/>
         </Route>
       </Routes>
       </BrowserRouter>

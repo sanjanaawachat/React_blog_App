@@ -634,3 +634,30 @@ hr {
   top: 880px;
   left: 840px;
 }
+.photo-img{
+  position: absolute;
+  bottom: -1490px;
+  right: 3px;
+  width: 430px;
+  height: 400px;
+  border-radius: 15px;
+ 
+}
+.advertise-img1{
+  position: absolute;
+  top: 2190px;
+  right: -16px;
+  width: 430px;
+  height: 400px;
+  border-radius: 15px;
+  margin-right: 2px;
+}
+.temple-1{
+  position: absolute;
+  bottom: -2500px;
+  right: 3px;
+  width: 430px;
+  height: 400px;
+  border-radius: 15px;
+ 
+}

@@ -12,7 +12,6 @@ export default function Homepage() {
       <Home />
       <Latestfeatures />
       <Articles />
-      <Toppost />
       <Adver1/>
       </div>
   )
