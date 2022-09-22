@@ -9,8 +9,8 @@ import Fitnesspage from './Pages/Fitnesspage';
 import Hollywoodpage from './Pages/Hollywoodpage';
 import Technologypage from './Pages/Technologypage';
 import Foodpage from './Pages/Foodpage';
-import PageNotFound from './Pages/PageNotFound'
-import ContentPage from './Pages/ContentPage'
+import PageNotFound from './Pages/PageNotFound';
+import ContentPage from './Pages/ContentPage';
 
 
 function App() {

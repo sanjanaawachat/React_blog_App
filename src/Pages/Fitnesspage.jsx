@@ -1,6 +1,6 @@
 import React from 'react'
-import Fitness from '../Fitness page/Fitness'
-import Top from '../Toppostcommon/Top'
+import Fitness from '../Commonpages/Fitness'
+import Top from '../Commonpages/Top'
 import Advertisepost from '../Components/Advertisepost'
 import Toppost from '../Home page/Toppost'
 

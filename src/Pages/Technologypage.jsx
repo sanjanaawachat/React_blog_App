@@ -1,8 +1,8 @@
 import React from 'react'
 import Advertisepost from '../Components/Advertisepost'
 import Toppost from '../Home page/Toppost'
-import Technology from '../Technology page/Technology'
-import Top from '../Toppostcommon/Top'
+import Technology from '../Commonpages/Technology'
+import Top from '../Commonpages/Technology'
 export default function Technologypage() {
   return (
     <div className='Technology'>

@@ -1,6 +1,6 @@
 import React from 'react'
-import Bollywood from '../Bollywood page/Bollywood'
-import Top from '../Toppostcommon/Top'
+import Bollywood from '../Commonpages/Bollywood'
+import Top from '../Commonpages/Top'
 import Advertisepost from '../Components/Advertisepost'
 import Toppost from '../Home page/Toppost'
 

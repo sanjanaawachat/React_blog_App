@@ -1,8 +1,8 @@
 import React from 'react'
 import Advertisepost from '../Components/Advertisepost'
-import Food from '../Food page/Food'
+import Food from '../Commonpages/Food'
 import Toppost from '../Home page/Toppost'
-import Top from '../Toppostcommon/Top'
+import Top from '../Commonpages/Food'
 
 
 export default function Foodpage() {
