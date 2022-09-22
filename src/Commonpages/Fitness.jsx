@@ -18,7 +18,7 @@ const Fitness = () => {
     }
     </div>
     <div className="right-container">
-      {/* <Right/> */}
+    
       </div>
   </div>
   )
