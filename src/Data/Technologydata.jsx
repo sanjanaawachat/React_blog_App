@@ -29,11 +29,5 @@ export const tech_data=[
         "date":"September 01, 2022, Thursday",
         "link":"https://bsmedia.business-standard.com/_media/bs/img/article/2022-05/26/full/1653539135-1899.jpg?im=Resize,width=220"
      },
-   //   {
-        
-   //      "img":"https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/31/full/1661956020-1592.png?im=Resize,width=220",
-   //      "title": "ASUS Foldable Zenbook Laptop To Start From $3,499, Available In Q4",
-   //      "date":"August 31, 2022, Wednesday",
-   //      "link":"https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/31/full/1661956020-1592.png?im=Resize,width=220"
-   //   }
+   
 ]

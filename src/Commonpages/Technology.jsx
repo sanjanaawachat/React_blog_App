@@ -1,7 +1,7 @@
 import React from 'react'
 import { tech_data } from '../Data/Technologydata'
 import Card from '../Components/Card'
-// import Right from './Right'
+
 
 
 const Technology = () => {
@@ -19,12 +19,9 @@ const Technology = () => {
         })
       }
       </div>
-      <div className="right-container">
-      {/* <Right/> */}
-      </div>
       
-    </div>
-  )
+   </div>
+   )
 }
 
 export default Technology

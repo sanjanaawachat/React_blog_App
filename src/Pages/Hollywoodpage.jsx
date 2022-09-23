@@ -1,7 +1,7 @@
 import React from 'react'
 import Hollywood from '../Commonpages/Hollywood'
 import Advertisepost from '../Components/Advertisepost'
-import Top from '../Commonpages/Hollywood'
+import Top from '../Commonpages/Top'
 import Toppost from '../Home page/Toppost'
 export default function Hollywoodpage() {
   return (
