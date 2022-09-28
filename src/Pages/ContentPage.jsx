@@ -30,7 +30,6 @@ const ContentPage = () => {
         <img src={article.img} alt="bollywood" height="400px" width="600px" className='tech-image'/>
       <p className='text'>{article.content}</p>
       <br/><br/>
-      {/* <p className='text'>Let's talk about them</p> */}
       <br/>
 
     <br/>
@@ -64,7 +63,7 @@ const ContentPage = () => {
         <img src={article.img} alt="hollywood" height="400px" width="600px"/>
       <p className='text'>{article.content}</p>
       <br/><br/>
-      {/* <p className='text'>Let's talk about them</p> */}
+     
       <br/>
 
     <br/>
@@ -99,7 +98,7 @@ const ContentPage = () => {
         <img src={article.img} alt="technology" height="400px" width="600px"/>
       <p className='text'>{article.content}</p>
       <br/><br/>
-      {/* <p className='text'>Let's talk about them</p> */}
+    
       <br/>
 
     <br/>
@@ -132,7 +131,7 @@ const ContentPage = () => {
         <img src={article.img} alt="fitness" height="400px" width="600px"/>
       <p className='text'>{article.content}</p>
       <br/><br/>
-      {/* <p className='text'>Let's talk about them</p> */}
+      
       <br/>
 
     <br/>
@@ -167,7 +166,7 @@ const ContentPage = () => {
         <img src={article.img} alt="food" height="400px" width="600px"/>
       <p className='text'>{article.content}</p>
       <br/><br/>
-      {/* <p className='text'>Let's talk about them</p> */}
+      
       <br/>
 
     <br/>
@@ -189,7 +188,7 @@ const ContentPage = () => {
             <hr/><br/>
             <div className="more-data">
               {
-                // eslint-disable-next-line
+               
                 bolly_data.map((article,i)=>{
                   if( article.CategoryName === articleCategory &&
                     i>=bolly_data.length-5 &&

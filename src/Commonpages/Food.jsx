@@ -1,7 +1,7 @@
 import React from 'react'
 import Card from '../Components/Card'
 import { food_data } from '../Data/Fooddata'
-// import Right from './Right'
+
 
 const Food = () => {
   return (
@@ -18,9 +18,7 @@ const Food = () => {
       })
     }
     </div>
-    <div className="right-container">
-      {/* <Right/> */}
-      </div>
+    
   </div>
   )
 }

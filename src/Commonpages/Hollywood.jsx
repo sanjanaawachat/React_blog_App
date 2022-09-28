@@ -18,9 +18,7 @@ const Hollywood = () => {
         })
       }
       </div>
-      <div className="right-container">
-      {/* <Right/> */}
-      </div>
+      
     </div>
   )
 }

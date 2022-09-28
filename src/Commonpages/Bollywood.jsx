@@ -4,7 +4,8 @@ import { bolly_data } from '../Data/Bollywooddata'
 
 
 const Bollywood = () => {
-  return (
+ 
+ return (
     <div className="container">
       <div className="left-container">
       <h2 style={{fontSize:'35px',letterSpacing:'5px',color:'white'}}>Bollywood</h2>

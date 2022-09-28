@@ -30,13 +30,5 @@ export const holly_data=[
         "title": "Britney Spears has responded back to son Jayden's accusations of her not meeting the expectations of being a mother.",
         "date":"August 24, 2022 5:30:26 pm",
       "link":"https://images.indianexpress.com/2022/09/Untitled-design-2022-09-02T110917.936.jpg?resize=768,427"
-     },
-    //  {
-        
-    //     "img":"https://images.indianexpress.com/2022/09/Daisy-Edgar-Jones-1200by667.jpg?resize=768,427",
-       
-    //     "title": "Where the Crawdads Sing stars Daisy Edgar-Jones, Taylor John Smith, Harris Dickinson, Michael Hyatt, Sterling Macer Jr and Oscar-nominated actor David Strathairn.",
-    //     "date":"August 24, 2022 5:30:26 pm",
-    //   "link":"https://images.indianexpress.com/2022/09/Daisy-Edgar-Jones-1200by667.jpg?resize=768,427"
-    //  }
-]
+     }
+   ]

@@ -28,6 +28,6 @@ export const tech_data=[
         "title": "India, China May Produce IPhone 15 Simultaneously Next Year, Says AnalystIndustry Analyst Ming-Chi Kuo On Thursday Claimed That The Next IPhone 15 Is Likely To Be Manufactured At The Same Time In India ...",
         "date":"September 01, 2022, Thursday",
         "link":"https://bsmedia.business-standard.com/_media/bs/img/article/2022-05/26/full/1653539135-1899.jpg?im=Resize,width=220"
-     },
+     }
    
 ]
